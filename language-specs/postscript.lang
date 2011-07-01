@@ -44,4 +44,13 @@
 		<match>\%[/\w+</match>
 	</context>
 
+	<context id="postscript">
+		<include>
+			<context ref="def:string"/>
+			<context ref="def:decimal"/>
+			<context ref="def:float"/>
+			<context ref="line-comment"/>
+			<context ref="symbol"/>
+		</include>
+	</context>
 </language>
