@@ -25,4 +25,10 @@
 		<property name="globs">*.ps</property>
 		<property name="line-comment-start">%</property>
 	</metadata>
+	
+	<styles>
+		<style id="comment"  _name="Comment"  map-to="def:comment"/>
+		<style id="keyword"  _name="Keyword"  map-to="def:keyword"/>
+		<style id="symbol" _name="Symbol" map-to="def:function"/>
+	</styles>
 </language>
