@@ -8,3 +8,12 @@ PostScript
 
 For more information on the programming language Postscript see
 http://en.wikipedia.org/wiki/PostScript
+
+Usage
+-----
+
+To use the language definition and its style file it has to be installed.
+The instructions below outline a means of installation.
+
+1) create a ~/.local/share/gtksourceview-2.0/language-specs directory.
+2) place language-specs/magma.lang in above directory.
