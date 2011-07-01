@@ -31,4 +31,13 @@
 		<style id="keyword"  _name="Keyword"  map-to="def:keyword"/>
 		<style id="symbol" _name="Symbol" map-to="def:function"/>
 	</styles>
+
+	<context id="line-comment" style-ref="comment">
+		<start>%</start>
+		<end>$</end>
+		<include>
+			<context ref="def:in-comment"/>
+		</include>
+	</context>
+
 </language>
