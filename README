@@ -1,0 +1,10 @@
+Description
+===========
+
+This project provides a GtkSourceView language definition for *PostScript*.
+
+PostScript
+----------
+
+For more information on the programming language Postscript see
+http://en.wikipedia.org/wiki/PostScript
