@@ -27,9 +27,9 @@
 	</metadata>
 	
 	<styles>
-		<style id="comment"  _name="Comment"  map-to="def:comment"/>
-		<style id="keyword"  _name="Keyword"  map-to="def:keyword"/>
-		<style id="symbol" _name="Symbol" map-to="def:function"/>
+		<style id="comment" _name="Comment"  map-to="def:comment"/>
+		<style id="keyword" _name="Keyword"  map-to="def:keyword"/>
+		<style id="symbol"  _name="Symbol" map-to="def:function"/>
 	</styles>
 
 	<context id="line-comment" style-ref="comment">
@@ -38,6 +38,10 @@
 		<include>
 			<context ref="def:in-comment"/>
 		</include>
+	</context>
+
+	<context id="symbol" style-ref="comment">
+		<match>\%[/\w+</match>
 	</context>
 
 </language>
