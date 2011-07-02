@@ -54,5 +54,5 @@
 				<context ref="symbol"/>
 			</include>
 		</context>
-	<definitions>
+	</definitions>
 </language>
