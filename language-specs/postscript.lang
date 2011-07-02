@@ -42,7 +42,7 @@
 		</context>
 
 		<context id="symbol" style-ref="symbol">
-			<match>\%[/\w+</match>
+			<match>/\w+</match>
 		</context>
 
 		<context id="postscript">
