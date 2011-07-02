@@ -32,25 +32,27 @@
 		<style id="symbol"  _name="Symbol" map-to="def:function"/>
 	</styles>
 
-	<context id="line-comment" style-ref="comment">
-		<start>%</start>
-		<end>$</end>
-		<include>
-			<context ref="def:in-comment"/>
-		</include>
-	</context>
+	<definitions>
+		<context id="line-comment" style-ref="comment">
+			<start>%</start>
+			<end>$</end>
+			<include>
+				<context ref="def:in-comment"/>
+			</include>
+		</context>
 
-	<context id="symbol" style-ref="comment">
-		<match>\%[/\w+</match>
-	</context>
+		<context id="symbol" style-ref="symbol">
+			<match>\%[/\w+</match>
+		</context>
 
-	<context id="postscript">
-		<include>
-			<context ref="def:string"/>
-			<context ref="def:decimal"/>
-			<context ref="def:float"/>
-			<context ref="line-comment"/>
-			<context ref="symbol"/>
-		</include>
-	</context>
+		<context id="postscript">
+			<include>
+				<context ref="def:string"/>
+				<context ref="def:decimal"/>
+				<context ref="def:float"/>
+				<context ref="line-comment"/>
+				<context ref="symbol"/>
+			</include>
+		</context>
+	<definitions>
 </language>
