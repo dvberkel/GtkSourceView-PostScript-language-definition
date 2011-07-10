@@ -84,7 +84,7 @@
 			<keyword>clear</keyword>
 			<keyword>clippath</keyword>
 			<keyword>clip</keyword>
-			<keyword>closeﬁle</keyword>
+			<keyword>closefile</keyword>
 			<keyword>closepath</keyword>
 			<keyword>colorimage</keyword>
 			<keyword>concatmatrix</keyword>
@@ -122,7 +122,7 @@
 			<keyword>currenthalftone</keyword>
 			<keyword>currenthalftonephase</keyword>
 			<keyword>currenthsbcolor</keyword>
-			<keyword>currentﬁle</keyword>
+			<keyword>currentfile</keyword>
 			<keyword>currentlinecap</keyword>
 			<keyword>currentlinejoin</keyword>
 			<keyword>currentlinewidth</keyword>
