@@ -449,6 +449,7 @@
 				<context ref="def:float"/>
 				<context ref="line-comment"/>
 				<context ref="symbol"/>
+				<context ref="keyword"/>
 			</include>
 		</context>
 	</definitions>
