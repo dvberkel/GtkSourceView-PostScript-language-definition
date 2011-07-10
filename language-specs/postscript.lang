@@ -152,11 +152,11 @@
 			<keyword>DCTDecode</keyword>
 			<keyword>DCTEncode</keyword>
 			<keyword>defaultmatrix</keyword>
-			<keyword>deleteﬁle</keyword>
-			<keyword>deﬁnefont</keyword>
-			<keyword>deﬁneresource</keyword>
-			<keyword>deﬁneusername</keyword>
-			<keyword>deﬁneuserobject</keyword>
+			<keyword>deletefile</keyword>
+			<keyword>definefont</keyword>
+			<keyword>defineresource</keyword>
+			<keyword>defineusername</keyword>
+			<keyword>defineuserobject</keyword>
 			<keyword>def</keyword>
 			<keyword>detach</keyword>
 			<keyword>DeviceCMYK</keyword>
@@ -172,7 +172,7 @@
 			<keyword>echo</keyword>
 			<keyword>end</keyword>
 			<keyword>eoclip</keyword>
-			<keyword>eoﬁll</keyword>
+			<keyword>eofill</keyword>
 			<keyword>eoviewclip</keyword>
 			<keyword>eq</keyword>
 			<keyword>erasepage</keyword>
@@ -186,6 +186,14 @@
 			<keyword>exit</keyword>
 			<keyword>exp</keyword>
 			<keyword>false</keyword>
+			<keyword>filenameforall</keyword>
+			<keyword>fileposition</keyword>
+			<keyword>file</keyword>
+			<keyword>fill</keyword>
+			<keyword>filter</keyword>
+			<keyword>findencoding</keyword>
+			<keyword>findfont</keyword>
+			<keyword>findresource</keyword>
 			<keyword>FontDirectory</keyword>
 			<keyword>for</keyword>
 			<keyword>forall</keyword>
@@ -217,15 +225,15 @@
 			<keyword>imagemask</keyword>
 			<keyword>index</keyword>
 			<keyword>Indexed</keyword>
-			<keyword>ineoﬁll</keyword>
+			<keyword>ineofill</keyword>
 			<keyword>initclip</keyword>
 			<keyword>initgraphics</keyword>
 			<keyword>initmatrix</keyword>
 			<keyword>initviewclip</keyword>
-			<keyword>inﬁll</keyword>
+			<keyword>infill</keyword>
 			<keyword>instroke</keyword>
-			<keyword>inueoﬁll</keyword>
-			<keyword>inuﬁll</keyword>
+			<keyword>inueofill</keyword>
+			<keyword>inufill</keyword>
 			<keyword>inustroke</keyword>
 			<keyword>invertmatrix</keyword>
 			<keyword>ISOLatin1Encoding</keyword>
@@ -235,19 +243,14 @@
 			<keyword>kshow</keyword>
 			<keyword>languagelevel</keyword>
 			<keyword>le</keyword>
-			<keyword>ﬁlenameforall</keyword>
 			<keyword>length</keyword>
-			<keyword>ﬁleposition</keyword>
-			<keyword>ﬁle</keyword>
 			<keyword>lineto</keyword>
-			<keyword>ﬁll</keyword>
 			<keyword>ln</keyword>
 			<keyword>load</keyword>
 			<keyword>lock</keyword>
 			<keyword>log</keyword>
 			<keyword>loop</keyword>
 			<keyword>lt</keyword>
-			<keyword>ﬁlter</keyword>
 			<keyword>LZWDecode</keyword>
 			<keyword>LZWEncode</keyword>
 			<keyword>makefont</keyword>
@@ -259,9 +262,6 @@
 			<keyword>monitor</keyword>
 			<keyword>moveto</keyword>
 			<keyword>mul</keyword>
-			<keyword>ﬁndencoding</keyword>
-			<keyword>ﬁndfont</keyword>
-			<keyword>ﬁndresource</keyword>
 			<keyword>ne</keyword>
 			<keyword>neg</keyword>
 			<keyword>newpath</keyword>
@@ -295,13 +295,13 @@
 			<keyword>readstring</keyword>
 			<keyword>realtime</keyword>
 			<keyword>rectclip</keyword>
-			<keyword>rectﬁll</keyword>
+			<keyword>rectfill</keyword>
 			<keyword>rectstroke</keyword>
 			<keyword>rectviewclip</keyword>
-			<keyword>renameﬁle</keyword>
+			<keyword>renamefile</keyword>
 			<keyword>renderbands</keyword>
 			<keyword>repeat</keyword>
-			<keyword>resetﬁle</keyword>
+			<keyword>resetfile</keyword>
 			<keyword>resourceforall</keyword>
 			<keyword>resourcestatus</keyword>
 			<keyword>restore</keyword>
@@ -348,7 +348,7 @@
 			<keyword>sethalftone</keyword>
 			<keyword>sethalftonephase</keyword>
 			<keyword>sethsbcolor</keyword>
-			<keyword>setﬁleposition</keyword>
+			<keyword>setfileposition</keyword>
 			<keyword>setlinecap</keyword>
 			<keyword>setlinejoin</keyword>
 			<keyword>setlinewidth</keyword>
@@ -389,7 +389,7 @@
 			<keyword>stroke</keyword>
 			<keyword>strokepath</keyword>
 			<keyword>sub</keyword>
-			<keyword>SubFileDecode</keyword>
+			<keyword>SubfileDecode</keyword>
 			<keyword>Symbol</keyword>
 			<keyword>systemdict</keyword>
 			<keyword>System Name Encodings</keyword>
@@ -406,18 +406,18 @@
 			<keyword>uappend</keyword>
 			<keyword>ucache</keyword>
 			<keyword>ucachestatus</keyword>
-			<keyword>ueoﬁll</keyword>
-			<keyword>uﬁll</keyword>
+			<keyword>ueofill</keyword>
+			<keyword>ufill</keyword>
 			<keyword>undef</keyword>
-			<keyword>undeﬁnefont</keyword>
-			<keyword>undeﬁneresource</keyword>
-			<keyword>undeﬁneuserobject</keyword>
+			<keyword>undefinefont</keyword>
+			<keyword>undefineresource</keyword>
+			<keyword>undefineuserobject</keyword>
 			<keyword>upath</keyword>
 			<keyword>userdict</keyword>
 			<keyword>UserObjects</keyword>
 			<keyword>usertime</keyword>
 			<keyword>ﬂush</keyword>
-			<keyword>ﬂushﬁle</keyword>
+			<keyword>ﬂushfile</keyword>
 			<keyword>ustroke</keyword>
 			<keyword>ustrokepath</keyword>
 			<keyword>version</keyword>
