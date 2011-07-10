@@ -51,10 +51,10 @@
 			<keyword>aload</keyword>
 			<keyword>anchorsearch</keyword>
 			<keyword>and</keyword>
-			<keyword>arc</keyword>
-			<keyword>arcn</keyword>
-			<keyword>arct</keyword>
 			<keyword>arcto</keyword>
+			<keyword>arct</keyword>
+			<keyword>arcn</keyword>
+			<keyword>arc</keyword>
 			<keyword>array</keyword>
 			<keyword>ASCII85Decode</keyword>
 			<keyword>ASCII85Encode</keyword>
@@ -79,24 +79,24 @@
 			<keyword>CIEBasedABC</keyword>
 			<keyword>CIEBasedDEF</keyword>
 			<keyword>CIEBasedDEFG</keyword>
-			<keyword>clear</keyword>
 			<keyword>cleardictstack</keyword>
 			<keyword>cleartomark</keyword>
-			<keyword>clip</keyword>
+			<keyword>clear</keyword>
 			<keyword>clippath</keyword>
+			<keyword>clip</keyword>
 			<keyword>closeﬁle</keyword>
 			<keyword>closepath</keyword>
 			<keyword>colorimage</keyword>
-			<keyword>concat</keyword>
 			<keyword>concatmatrix</keyword>
+			<keyword>concat</keyword>
 			<keyword>condition</keyword>
-			<keyword>copy</keyword>
 			<keyword>copypage</keyword>
+			<keyword>copy</keyword>
 			<keyword>cos</keyword>
-			<keyword>count</keyword>
 			<keyword>countdictstack</keyword>
 			<keyword>countexecstack</keyword>
 			<keyword>counttomark</keyword>
+			<keyword>count</keyword>
 			<keyword>Courier</keyword>
 			<keyword>Courier-Bold</keyword>
 			<keyword>Courier-BoldOblique</keyword>
@@ -151,21 +151,21 @@
 			<keyword>cvx</keyword>
 			<keyword>DCTDecode</keyword>
 			<keyword>DCTEncode</keyword>
-			<keyword>def</keyword>
 			<keyword>defaultmatrix</keyword>
 			<keyword>deleteﬁle</keyword>
 			<keyword>deﬁnefont</keyword>
 			<keyword>deﬁneresource</keyword>
 			<keyword>deﬁneusername</keyword>
 			<keyword>deﬁneuserobject</keyword>
+			<keyword>def</keyword>
 			<keyword>detach</keyword>
 			<keyword>DeviceCMYK</keyword>
 			<keyword>DeviceGray</keyword>
 			<keyword>deviceinfo</keyword>
 			<keyword>DeviceN</keyword>
 			<keyword>DeviceRGB</keyword>
-			<keyword>dict</keyword>
 			<keyword>dictstack</keyword>
+			<keyword>dict</keyword>
 			<keyword>div</keyword>
 			<keyword>dtransform</keyword>
 			<keyword>dup</keyword>
@@ -178,11 +178,11 @@
 			<keyword>erasepage</keyword>
 			<keyword>errordict</keyword>
 			<keyword>exch</keyword>
-			<keyword>exec</keyword>
 			<keyword>execform</keyword>
 			<keyword>execstack</keyword>
 			<keyword>execuserobject</keyword>
 			<keyword>executeonly</keyword>
+			<keyword>exec</keyword>
 			<keyword>exit</keyword>
 			<keyword>exp</keyword>
 			<keyword>false</keyword>
@@ -211,8 +211,8 @@
 			<keyword>identmatrix</keyword>
 			<keyword>idiv</keyword>
 			<keyword>idtransform</keyword>
-			<keyword>if</keyword>
 			<keyword>ifelse</keyword>
+			<keyword>if</keyword>
 			<keyword>image</keyword>
 			<keyword>imagemask</keyword>
 			<keyword>index</keyword>
@@ -235,10 +235,10 @@
 			<keyword>kshow</keyword>
 			<keyword>languagelevel</keyword>
 			<keyword>le</keyword>
-			<keyword>ﬁle</keyword>
 			<keyword>ﬁlenameforall</keyword>
 			<keyword>length</keyword>
 			<keyword>ﬁleposition</keyword>
+			<keyword>ﬁle</keyword>
 			<keyword>lineto</keyword>
 			<keyword>ﬁll</keyword>
 			<keyword>ln</keyword>
@@ -318,8 +318,8 @@
 			<keyword>RunLengthDecode</keyword>
 			<keyword>RunLengthEncode</keyword>
 			<keyword>save</keyword>
-			<keyword>scale</keyword>
 			<keyword>scalefont</keyword>
+			<keyword>scale</keyword>
 			<keyword>scheck</keyword>
 			<keyword>search</keyword>
 			<keyword>selectfont</keyword>
@@ -371,8 +371,8 @@
 			<keyword>setvmthreshold</keyword>
 			<keyword>shareddict</keyword>
 			<keyword>SharedFontDirectory</keyword>
-			<keyword>show</keyword>
 			<keyword>showpage</keyword>
+			<keyword>show</keyword>
 			<keyword>sin</keyword>
 			<keyword>sqrt</keyword>
 			<keyword>srand</keyword>
@@ -429,8 +429,8 @@
 			<keyword>wcheck</keyword>
 			<keyword>where</keyword>
 			<keyword>widthshow</keyword>
-			<keyword>write</keyword>
 			<keyword>writehexstring</keyword>
+			<keyword>write</keyword>
 			<keyword>writeobject</keyword>
 			<keyword>writestring</keyword>
 			<keyword>wtranslation</keyword>
